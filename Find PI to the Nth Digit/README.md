@@ -18,6 +18,6 @@ Files Includes With This Project:
   
   Setting to a Decimal type has increased the accuracy of PI from 12dp in the original source code to 28 dp. More needs to be investigated <br>
   
-   Output of FindPI2Digit.py accurate up to 28dp when precision set to 35dp      : 3.1415926535897932384626433832
+   Output of FindPI2Digit.py accurate up to 28dp when precision set to 35dp      : 3.1415926535897932384626433832 <br>
    Output of original source code accurate up to 12dp when precision set to 35dp : 3.141592653589
   
