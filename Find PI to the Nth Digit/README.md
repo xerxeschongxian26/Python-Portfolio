@@ -1,6 +1,6 @@
 * Find PI to the Nth Digit - readme.txt
 
-Files Includes With This Project:
+Files Included With This Project:
  
       FindPI2Digit.py
       
