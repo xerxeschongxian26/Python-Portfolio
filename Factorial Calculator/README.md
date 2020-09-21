@@ -1,6 +1,6 @@
 * Factorial Calculator - readme.txt
 
-Files Includes With This Project:
+Files Included With This Project:
  
       factorial_loop.py    factorial_recursion.py  tester_factorial.py
       
