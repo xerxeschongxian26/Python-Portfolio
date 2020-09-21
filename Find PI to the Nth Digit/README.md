@@ -21,16 +21,3 @@ Files Includes With This Project:
    Output of FindPI2Digit.py accurate up to 28dp when precision set to 35dp      : 3.1415926535897932384626433832
    Output of original source code accurate up to 12dp when precision set to 35dp : 3.141592653589
   
-
-
-
-
-
-## Results Log
-##05/08/2020 
-## 1 is mine and 2 is solutions
-# Both have precision set to 35dp
-# 1 is accurate up to 28dp
-# 2 is accurate up to 12dp
-
-#consider timing programs and finding the digit of errors for both
