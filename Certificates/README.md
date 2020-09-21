@@ -4,7 +4,7 @@ Files Included With This Folder:
  
       Complete Python Bootcamp.pdf
       
-  * Complete Python Bootcamp.pdf contains the Certificate of Completion for the Complete Python Bootcamp: From Zero to Hero in Python from Udemy <br>
+  * Complete Python Bootcamp.pdf contains the Certificate of Completion for the *Complete Python Bootcamp: From Zero to Hero in Python* from Udemy <br>
 
 ## Course Syllabus:
 
