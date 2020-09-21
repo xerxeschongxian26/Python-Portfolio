@@ -1,6 +1,6 @@
 War Card Game - readme.txt
 
-Files Includes With This Project:
+Files Included With This Project:
 
       war_Classes.py    war_Main.py   war_Variables.py
       
