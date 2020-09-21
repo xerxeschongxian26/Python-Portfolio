@@ -11,7 +11,7 @@ Files Included With This Folder:
   #### Completion for the Complete Python Bootcamp: From Zero to Hero in Python from Udemy <br>
   
     * Objects and Data Structures 
-   * Comparison Operators
+    * Comparison Operators
     * Statements
     * Methods And Functions
     * Object Orientated Programming
