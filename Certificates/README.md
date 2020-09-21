@@ -1,4 +1,4 @@
-* Certificates - readme.txt
+# Certificates - readme.txt
 
 Files Included With This Folder:
  
@@ -6,9 +6,9 @@ Files Included With This Folder:
       
   * Complete Python Bootcamp.pdf contains the Certificate of Completion for the Complete Python Bootcamp: From Zero to Hero in Python from Udemy <br>
 
-# Course Syllabus:
+## Course Syllabus:
 
-  ### Completion for the Complete Python Bootcamp: From Zero to Hero in Python from Udemy <br>
+  #### Completion for the Complete Python Bootcamp: From Zero to Hero in Python from Udemy <br>
   
     * Objects and Data Structures 
     * Comparison Operators
