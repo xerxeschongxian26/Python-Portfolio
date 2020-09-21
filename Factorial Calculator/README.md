@@ -4,9 +4,9 @@ Files Includes With This Project:
  
       factorial_loop.py    factorial_recursion.py  tester_factorial.py
       
-  factorial_loop.py calculates the factorial of a number using loops 
-  factorial_recursion.py calculates the factorial of a number using recursion 
-  tester_factorial.py compares the speed of each method by counting the total time for each method to calculate 500! over 100,000 times
+  factorial_loop.py calculates the factorial of a number using loops <br>
+  factorial_recursion.py calculates the factorial of a number using recursion <br>
+  tester_factorial.py compares the speed of each method by counting the total time for each method to calculate 500! over 100,000 times <br>
 
 * How To Run "Factorial Calculator":
 
