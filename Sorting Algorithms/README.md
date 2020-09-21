@@ -1,6 +1,6 @@
 * Sorting Algorithms - readme.txt
 
-Files Includes With This Project:
+Files Included With This Project:
  
       sort_Bubble.py    sort_Selection.py       Tester_sort.py
       
